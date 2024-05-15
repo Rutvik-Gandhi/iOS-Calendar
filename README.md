@@ -14,7 +14,7 @@ iOS Calender can be installed with Swift Package Manager or with CocoaPods.
 The preferred way of installing iOS Calender is via the [Swift Package Manager](https://swift.org/package-manager/).
 
 1. In Xcode, open your project and navigate to **File** → **Swift Packages** → **Add Package Dependency...**
-2. Paste the repository URL (`https://github.com/richardtop/CalendarKit.git`) and click **Next**.
+2. Paste the repository URL (`https://github.com/Rutvik-Gandhi/iOS-Calendar.git`) and click **Next**.
 3. For **Rules**, select **Version (Up to Next Major)** and click **Next**.
 4. Click **Finish**.
 
@@ -57,7 +57,7 @@ override func eventsForDate(_ date: Date) -> [EventDescriptor] {
   return events
 }
 ```
-After receiving an array of events for a particular day, CalendarKit will handle view layout and display.
+After receiving an array of events for a particular day, iOS Calender will handle view layout and display.
 
 ### Usage
 To respond to the user input, override mehtods of `DayViewDelegate`, for example:
