@@ -18,8 +18,6 @@ The preferred way of installing iOS Calender is via the [Swift Package Manager](
 3. For **Rules**, select **Version (Up to Next Major)** and click **Next**.
 4. Click **Finish**.
 
-[Adding Package Dependencies to Your App](https://developer.apple.com/documentation/swift_packages/adding_package_dependencies_to_your_app)
-
 ### CocoaPods
 
 To install it, add the following line to your Podfile:
