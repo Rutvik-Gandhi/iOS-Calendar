@@ -25,7 +25,7 @@ The preferred way of installing iOS Calender is via the [Swift Package Manager](
 To install it, add the following line to your Podfile:
 
 ```ruby
-pod 'CalendarKit'
+pod 'iOS Calendar'
 ```
 [Adding Pods to an Xcode project](https://guides.cocoapods.org/using/using-cocoapods.html)
 
